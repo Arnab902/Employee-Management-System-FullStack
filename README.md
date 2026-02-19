@@ -14,9 +14,6 @@ A robust full-stack application built with **Spring Boot** and **React.js** to m
 - **Database:** PostgreSQL
 - **API Architecture:** REST
 
-## 📸 Screenshots
-*(Add your Dashboard and Search screenshots here)*
-
 ## 🚀 How to Run
 1. Clone the repository.
 2. Setup PostgreSQL database and update `application.properties`.
